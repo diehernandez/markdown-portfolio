@@ -1,0 +1,3 @@
+- [ ] Replace this with a list of your favorite things.
+- [ ] Make a portafolio
+- [ ] Show your projects to the world
